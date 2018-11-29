@@ -1,1 +1,2 @@
-# ft_printf
+# Libft
+Libft with more functions 
